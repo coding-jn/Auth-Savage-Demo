@@ -1,13 +1,6 @@
-## Installation
+# Savage Demo
 
-1. Clone repo
-2. run `npm install`
+An extension of the <a href='https://github.com/coding-jn/Node-Express-Savage-Demo'>"Node Express Savage Demo"</a> by adding authentication.
 
-## Usage
+<img width="928" alt="Savage Auth Demo" src="https://user-images.githubusercontent.com/88993361/141242585-91c00f39-8240-4d81-bddd-f599baf2167f.png">
 
-1. run `node server.js`
-2. Navigate to `localhost:8080`
-
-## Credit
-
-Modified from Scotch.io's auth tutorial
