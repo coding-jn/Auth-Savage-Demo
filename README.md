@@ -1,4 +1,4 @@
-# Savage Demo
+# Authentication Savage Demo
 
 An extension of the <a href='https://github.com/coding-jn/Node-Express-Savage-Demo'>"Node Express Savage Demo"</a> by adding authentication.
 
